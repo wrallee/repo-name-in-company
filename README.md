@@ -15,7 +15,7 @@
 ---
 
 ## 1. Data Structure
-:arrow_forward: [답변 내용](/contents/datastructure.md)
+:arrow_forward: [Details](/contents/datastructure.md)
 * Array
 * LinkedList
 * HashTable
@@ -29,7 +29,7 @@
 * B+ Tree
 
 ## 2. Network
-:arrow_forward: [답변 내용](/contents/network.md)
+:arrow_forward: [Details](/contents/network.md)
 * OSI 7계층
 * TCP/IP의 개념
 * TCP와 UDP
@@ -51,7 +51,7 @@
 * Frame, Packet, Segment, Datagram
 
 ## 3. Operating System
-:arrow_forward: [답변 내용](/contents/os.md)
+:arrow_forward: [Details](/contents/os.md)
 * 프로세스와 스레드의 차이(Process vs Thread)
 * 멀티 프로세스 대신 멀티 스레드를 사용하는 이유
 * Thread-safe
@@ -70,7 +70,7 @@
 * Swapping
 
 ## 4. Database
-:arrow_forward: [답변 내용](/contents/db.md)
+:arrow_forward: [Details](/contents/db.md)
 * 데이터베이스 풀
 * 정규화(1차 2차 3차 BCNF)
 * 트랜잭션(Transaction) 이란
@@ -89,7 +89,7 @@
 * java JDBC
 
 ## 5. Design Pattern
-:arrow_forward: [답변 내용](/contents/designpattern.md)
+:arrow_forward: [Details](/contents/designpattern.md)
 * 디자인 패턴의 개념과 종류
 * Singleton 패턴
 * Strategy 패턴
@@ -99,7 +99,7 @@
 
 ## 6. Algorithm 
 ### :pushpin: [관련 링크](https://github.com/WeareSoft/algorithm-study)
-:arrow_forward: [답변 내용](/contents/algorithm.md)
+:arrow_forward: [Details](/contents/algorithm.md)
 * BigO
 * DFS와 BFS의 차이
 * Fibonacci에서의 세 가지(Recursion, Dynamic Programming, 반복) 방식에 대한 시간복잡도와 공간복잡도 차이
@@ -110,7 +110,7 @@
 * Prim MST 알고리즘
 
 ## 7. Java
-:arrow_forward: [답변 내용](/contents/java.md)
+:arrow_forward: [Details](/contents/java.md)
 * java 프로그래밍이란
 * Java SE와 Java EE 애플리케이션 차이
 * java와 c/c++의 차이점
@@ -148,7 +148,7 @@
 * Lambda란?
 
 ## 8. JavaScript
-:arrow_forward: [답변 내용](/contents/javascript.md)
+:arrow_forward: [Details](/contents/javascript.md)
 * JavaScript Event Loop
 * 함수 선언식과 함수 표현식
 * 화살표 함수(Arrow Function)
@@ -163,7 +163,7 @@
 * Async/Await
 
 ## 9. Spring
-:arrow_forward: [답변 내용](/contents/spring.md)
+:arrow_forward: [Details](/contents/spring.md)
 * 스프링 프레임워크란
 * Spring, Spring MVC, Spring Boot의 차이
 * Bean이란
@@ -178,7 +178,7 @@
 * Filter와 Interceptor 차이
 
 ## 10. Security 
-:arrow_forward: [답변 내용](/contents/security.md)
+:arrow_forward: [Details](/contents/security.md)
 * 대칭키와 비대칭키 차이
 * 패스워드 암호화 방법 
 * SQL Injection 공격 
@@ -187,7 +187,7 @@
 * OAuth
 
 ## 11. ETC
-:arrow_forward: [답변 내용](/contents/etc.md)
+:arrow_forward: [Details](/contents/etc.md)
 * TDD란
 * 웹 브라우저에서 서버로 어떤 페이지를 요청하면 일어나는 일련의 과정을 설명
   * Ex. url에 'www.naver.com' 을 입력했다. 일어나는 현상에 대해 아는대로 설명하라.
@@ -211,12 +211,12 @@
 
 # Reference
 * [jojoldu님의 junior-recruit-scheduler](https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md)
-* [JaeYeopHan 님의 Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-* [KimHunJin님의 Study-Book/interview](https://github.com/KimHunJin/Study-Book/tree/master/interview)
-* [TaeMInMoon님의 신입 개발자 기술면접](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
-* [NESOY님의 Back-end-Developer-Interview-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions)
-* [hanee24님의 신입 개발자 면접 질문](https://hanee24.github.io/2018/05/13/interview-questions/)
-* [“개발자 면접 예상 질문, 오픈소스로 공유해요”](http://www.bloter.net/archives/246472)
-* [150 Java Interview Questions and Answers](https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#2)
-* [yangshun님의 front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/questions/javascript-questions.md)
-* [ganqqwerty님의 123-Essential-JavaScript-Interview-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+* [JaeYeopHan 님의 Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [KimHunJin님의 Study-Book/question](https://github.com/KimHunJin/Study-Book/tree/master/interview)
+* [TaeMInMoon님의 Question_for_Beginner](https://trello.com/b/BWtpfywH/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91)
+* [NESOY님의 Back-end-Developer-Questions](https://github.com/NESOY/Back-end-Developer-Interview-Questions)
+* [hanee24님의 Question_for_Beginner](https://hanee24.github.io/2018/05/13/interview-questions/)
+* [“Question_for_Beginner, Shared in Open Source”](http://www.bloter.net/archives/246472)
+* [150 Java Questions and Answers](https://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html#2)
+* [yangshun님의 front-end-handbook](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Korean/questions/javascript-questions.md)
+* [ganqqwerty님의 123-Essential-JavaScript-Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
